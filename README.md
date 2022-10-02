@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jisookh
+- 👋 Hi, I’m Jisook.
 - 👀 I’m interested in making my working process efficient with getting some help from python.
 - 📫 You can reach out to me at ...
 
