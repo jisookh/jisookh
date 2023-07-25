@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jisook.
-- 👀 I’m interested in making my working process efficient with getting some help from python.
 - 📫 You can reach out to me at ...
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jisookhong5@gmail.com)](mailto:jisookhong5@gmail.com)
